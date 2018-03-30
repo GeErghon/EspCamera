@@ -37,8 +37,8 @@ const int D7 = 4;
 //DIN <- MOSI 23
 //CLK <- SCK 18
 
-#define ssid1        "Ponto Final"
-#define password1    "PSP_2015"
+#define ssid1        "SSID"
+#define password1    "PASSPHRASE"
 //#define ssid2        ""
 //#define password2    ""
 
