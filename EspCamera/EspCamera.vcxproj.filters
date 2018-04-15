@@ -21,36 +21,39 @@
     <ClInclude Include="__vm\.EspCamera.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\BMP.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\BMP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\DMABuffer.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\DMABuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\I2C.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\I2C.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\I2SCamera.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\I2SCamera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\Log.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\Log.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\OV7670.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\OV7670.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\XClk.h">
+    <ClInclude Include="..\ESP32_I2S_Camera\XClk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Secrets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\I2SCamera.cpp">
+    <ClCompile Include="..\ESP32_I2S_Camera\I2SCamera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\OV7670.cpp">
+    <ClCompile Include="..\ESP32_I2S_Camera\OV7670.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\ESP32CameraI2S-master\ESP32_I2S_Camera\XClk.cpp">
+    <ClCompile Include="..\ESP32_I2S_Camera\XClk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
